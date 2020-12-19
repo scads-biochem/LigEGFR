@@ -22,6 +22,7 @@ Herein, we provide LigEGFR web service at https://ligegfr.vistec.ist/, and a Pyt
 <img src="c-sgen_propagation.svg" align="center">
 
 ## LigEGFR prediciton based-on Anaconda installation
+
 This method supports for Linux and macOS operating systems.
 
 ### Prerequisites:
@@ -120,3 +121,37 @@ tar -xzvf LigEGFR_source.tar.gz
 ```
 
 ### How to run:
+
+Basically, all files and folders in `LigEGFR_source` folder should be under the same folder that contains `conda` directory. The organization of folders and files is shown below.
+
+A valid directory organization:
+```bash
+├── cdk-2.3.jar
+├── conda
+├── examples
+│   ├── structure*.sdf
+├── models
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── *.pyc 
+│   ├── applicabilityDomain.py
+│   ├── cleanSmiles.py
+│   ├── csgen.py
+│   ├── fingerprint.py
+│   ├── knnpickle_file
+│   ├── longlist.py
+│   ├── model_0612.model
+│   ├── model.py
+│   ├── model256.model
+│   ├── mydataset.py
+│   └── tobject.py
+└── run_predict.py
+```
+
+### Example:
+
+
+## LigEGFR prediciton based-on Docker installation
+
+
+## Citation
