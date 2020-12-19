@@ -1,4 +1,4 @@
-<img src="ligegfr_logo.png" align="center" width="300">
+<img src="ligegfr_logo.png" align="left" width="300" style="padding-bottom: 50px;">
 
 # LigEGFR
 
