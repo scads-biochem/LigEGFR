@@ -9,4 +9,6 @@ Puri Virakarin<sup>1</sup>, Natthakan Saengnil<sup>1</sup>, Bundit Boonyarit<sup
 <sup>1</sup>Kamnoetvidya Science Academy (KVIS), Rayong 21210, Thailand\
 <sup>2</sup>School of Information Science and Technology, Vidyasirimedhi Institute of Science and Technology (VISTEC), Rayong 21210, Thailand\
 <sup>3</sup>Program in Bioinformatics and Computational Biology, Graduate School, Chulalongkorn University, Bangkok 10330, Thailand\
-<sup>4</sup>Biocatalyst and Environmental Biotechnology Research Unit, Department of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok 10330, Thailand\
+<sup>4</sup>Biocatalyst and Environmental Biotechnology Research Unit, Department of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok 10330, Thailand
+
+ssss
