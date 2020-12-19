@@ -21,6 +21,8 @@ Herein, we provide LigEGFR web service at https://ligegfr.vistec.ist/, and a Pyt
 
 <img src="c-sgen_propagation.svg" align="center">
 
+## Citation
+
 ## LigEGFR prediciton based-on Anaconda installation
 
 This method supports for Linux and macOS operating systems.
@@ -155,5 +157,3 @@ A valid directory organization:
 
 ## LigEGFR prediciton based-on Docker installation
 
-
-## Citation
