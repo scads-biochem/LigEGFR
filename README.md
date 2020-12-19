@@ -20,3 +20,6 @@ LigEGFR is a novel deep learning architecture for pIC<sub>50</sub> prediction of
 Herein, we provide LigEGFR web service at https://ligegfr.vistec.ist/, and Python executable file based-on Anaconda and Docker installation. 
 
 <img src="c-sgen_propagation.svg" align="center">
+
+## LigEGFR prediciton based-on Anaconda installation
+### Prerequisites
