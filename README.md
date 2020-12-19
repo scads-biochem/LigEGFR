@@ -23,3 +23,7 @@ Herein, we provide LigEGFR web service at https://ligegfr.vistec.ist/, and a Pyt
 
 ## Citation
 
+Please cite our paper by:
+```
+
+```
