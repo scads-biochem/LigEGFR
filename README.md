@@ -118,3 +118,5 @@ conda install -y -c openbabel openbabel=2.4.1
 ```
 tar -xzvf LigEGFR_source.tar.gz
 ```
+
+### How to run:
