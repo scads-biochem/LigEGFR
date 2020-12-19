@@ -126,3 +126,19 @@ A valid directory organization:
 │   └── tobject.py
 └── run_predict.py
 ```
+
+## Examples:
+
+### Run structure10.sdf file, this file contains 10 small molecules.
+
+```
+source conda/bin/activate
+python3 run_predict.py examples/structure10.sdf
+```
+
+### Run structure250.sdf file, this file contains 10 small molecules.
+
+```
+source conda/bin/activate
+python3 run_predict.py examples/structure250.sdf
+```
