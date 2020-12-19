@@ -27,3 +27,15 @@ Please cite our paper by:
 ```
 
 ```
+
+## Contact
+
+Bundit Boonyarit
+
+Scalable Data Systems Lab (SCADS)\
+School of Information Science and Technology
+
+Vidyasirimedhi Institute of Science and Technology\
+Wangchan Valley, 555 Moo 1, Payupnai, Wangchan, Rayong, 21210 Thailand
+
+Email: bundit.b_s18@vistec.ac.th
