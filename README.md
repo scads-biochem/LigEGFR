@@ -13,3 +13,6 @@ Puri Virakarin<sup>1</sup>, Natthakan Saengnil<sup>1</sup>, Bundit Boonyarit<sup
 
 
 ## About
+
+LigEGFR is a novel deep learning architecture for pIC$_{50}$ prediction of small molecules against human epidermal growth factor receptor (EGFR) tyrosine kinase. The architecture inspired and adapted from a convolution spatial graph embedding layer (C-SGEL) conducted by graph convolutional networks and incorporated especial molecular descriptors. Most interestingly, this model is a notable high performance for the hit compound classification, compared to molecular docking and machine learning approaches. Moreover, our work is the first model that employed a large-scale and non-redundant dataset to enhance the diversity of the small molecules. Besides, we developed a user-friendly online platform that is compatible with all devices, and provide a Python executable script, to predict pIC$_{50}$ and classify the hit compounds. This approach opens a new avenue to apply for the hit and lead compounds discovery via targeted lung cancer therapy, offering a powerful strategy that potentially helps researchers overcome the drawbacks of drug discovery processes, and avoids pitfalls of conventional computation methods.
+
