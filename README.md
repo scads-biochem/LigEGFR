@@ -11,7 +11,7 @@ Puri Virakarin<sup>1</sup>, Natthakan Saengnil<sup>1</sup>, Bundit Boonyarit<sup
 <sup>3</sup>Program in Bioinformatics and Computational Biology, Graduate School, Chulalongkorn University, Bangkok 10330, Thailand\
 <sup>4</sup>Biocatalyst and Environmental Biotechnology Research Unit, Department of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok 10330, Thailand
 
-<img src="ligegfr_workflow.svg" align="center" width="800">
+<img src="ligegfr_workflow.svg" align="center" width="850">
 
 ## About
 
@@ -19,7 +19,7 @@ LigEGFR is a novel deep learning architecture for pIC<sub>50</sub> prediction of
 
 Herein, we provide LigEGFR web service at https://ligegfr.vistec.ist/, and Python executable file based-on Anaconda and Docker installation. 
 
-<img src="c-sgen_propagation.svg" align="center" width="800">
+<img src="c-sgen_propagation.svg" align="center" width="850">
 
 ## LigEGFR prediciton based-on Anaconda installation
 ### Prerequisites
