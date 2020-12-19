@@ -127,6 +127,18 @@ A valid directory organization:
 └── run_predict.py
 ```
 
+To getting started, the conda environment requires to activate by
+
+```
+source conda/bin/activate
+```
+
+For prediction, please run `run_predict.py` and subsequent `qeury.sdf`, this file consists of multi-compounds with sdf format.
+
+```
+python3 run_predict.py query.sdf
+```
+
 ## Examples:
 
 ### Run structure10.sdf file, this file contains 10 small molecules.
@@ -136,7 +148,7 @@ source conda/bin/activate
 python3 run_predict.py examples/structure10.sdf
 ```
 
-### Run structure250.sdf file, this file contains 10 small molecules.
+### Run structure250.sdf file, this file contains 250 small molecules.
 
 ```
 source conda/bin/activate
