@@ -133,7 +133,7 @@ To getting started, the conda environment requires to activate by
 source conda/bin/activate
 ```
 
-For prediction, please run `run_predict.py` and subsequent `qeury.sdf`, this file consists of multi-compounds with sdf format.
+For prediction, please run `run_predict.py` and subsequent `qeury.sdf`, this file consists of multi-compounds in sdf format.
 
 ```
 python3 run_predict.py query.sdf
