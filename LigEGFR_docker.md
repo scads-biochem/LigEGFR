@@ -67,13 +67,13 @@ docker build -t ligegfr .
 #### Windows
 
 ```
-docker run -it --cpus="2" --memory="4g" --memory-swap="8g" --name lig1 --rm -i --mount type=bind,source=%cd%,target=/ligegfr ligegfr python3 run_predict.py examples/structure10.sdf
+docker run -it --cpus="2" --memory="4g" --memory-swap="8g" --name lig1 --rm -i --mount type=bind,source=%cd%,target=/ligegfr ligegfr python3 run_predict.py query.sdf
 ```
 
 #### Linux & macOS
 
 ```
-docker run -it --cpus="2" --memory="4g" --memory-swap="8g" --name lig1 --rm -i --mount type=bind,source=$(pwd),target=/ligegfr ligegfr python3 run_predict.py examples/structure10.sdf
+docker run -it --cpus="2" --memory="4g" --memory-swap="8g" --name lig1 --rm -i --mount type=bind,source=$(pwd),target=/ligegfr ligegfr python3 run_predict.py query.sdf
 ```
 
 ## Examples:
