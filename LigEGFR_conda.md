@@ -30,7 +30,7 @@ conda install -y -c conda-forge jpype1=0.7.5
 conda install -y -c openbabel openbabel=2.4.1
 ```
 
-3. Download a LigEGFR_source.tar.gz file from https://zenodo.org/record/4361642 and then decompress file
+3. Download a `LigEGFR_source.tar.gz` file from https://zenodo.org/record/4361642 and then decompress file
 ```
 tar -xzvf LigEGFR_source.tar.gz
 ```
