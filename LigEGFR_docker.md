@@ -4,9 +4,9 @@ This method supports for Windows, Linux and macOS operating systems.
 
 ## Hardware requirements:
 
-CPUs: Minumum 2 cores\
-Memory (RAM): Minumum 4GB\
-swap (in docker setting): Minumum 8GB
+CPUs: Minimum 2 cores\
+Memory (RAM): Minimum 4GB\
+swap (in docker setting): Minimum 8GB
 
 ## Prerequisites:
 
