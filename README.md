@@ -23,6 +23,13 @@ Herein, we provide LigEGFR web service at https://ligegfr.vistec.ist/, and a Pyt
 
 For C-SGEL, this layer is a part of convolution spatial graph embedding network (C-SGEN) architecture. For more information, please visit https://doi.org/10.1021/acs.jcim.9b00410
 
+
+## Hardware requirements:
+
+CPUs: Minimum 2 cores\
+Memory (RAM): Minimum 4GB\
+
+
 ## Citation
 
 Please cite our paper by:
