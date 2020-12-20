@@ -29,7 +29,7 @@ tar -xzvf LigEGFR_docker.tar.gz
 
 ## How to run:
 
-Basically, the organization of `LigEGFR_docker` folder contains files and directory as below.
+Basically, the organization of `LigEGFR_docker` folder contains files and directories as below.
 
 A valid organization of a directory:
 
