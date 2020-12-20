@@ -64,6 +64,8 @@ docker build -t ligegfr .
 
 ### II) Run Docker container from builded image
 
+For prediction, please add input `qeury.sdf` file, this file consists of multi-compounds in sdf format.
+
 #### Windows
 
 ```
