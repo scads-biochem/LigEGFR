@@ -61,7 +61,7 @@ conda install -y -c conda-forge jpype1=0.7.5
 conda install -y -c openbabel openbabel=2.4.1
 ```
 
-3. Download a LigEGFR_source.tar.gz file from https://zenodo.org/record/4361642 and then decompress file
+3. Download a `LigEGFR_source.tar.gz` file from https://zenodo.org/record/4361642 and then decompress file
 ```
 tar -xzvf LigEGFR_source.tar.gz
 ```
@@ -92,7 +92,7 @@ conda install -y -c conda-forge jpype1=0.7.5
 conda install -y -c openbabel openbabel=2.4.1
 ```
 
-3. Download a LigEGFR_source.tar.gz file from https://zenodo.org/record/4361642 and then decompress file
+3. Download a `LigEGFR_source.tar.gz` file from https://zenodo.org/record/4361642 and then decompress file
 ```
 tar -xzvf LigEGFR_source.tar.gz
 ```
@@ -111,15 +111,12 @@ A valid directory organization:
 │   ├── structure*.sdf
 ├── models
 │   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── *.pyc 
 │   ├── applicabilityDomain.py
 │   ├── cleanSmiles.py
 │   ├── csgen.py
 │   ├── fingerprint.py
 │   ├── knnpickle_file
 │   ├── longlist.py
-│   ├── model_0612.model
 │   ├── model.py
 │   ├── model256.model
 │   ├── mydataset.py
