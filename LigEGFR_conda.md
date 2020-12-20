@@ -101,7 +101,7 @@ tar -xzvf LigEGFR_source.tar.gz
 
 Basically, all files and folders in `LigEGFR_source` folder should be under the same folder that contains `conda` directory. The organization of folders and files is shown below.
 
-A valid directory organization:
+A valid organization of a directory:
 
 ```bash
 ├── cdk-2.3.jar
