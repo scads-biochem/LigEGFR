@@ -27,7 +27,7 @@ For C-SGEL, this layer is a part of convolution spatial graph embedding network 
 ## Hardware requirements:
 
 CPUs: Minimum 2 cores\
-Memory (RAM): Minimum 4GB\
+Memory (RAM): Minimum 4GB
 
 
 ## Citation
