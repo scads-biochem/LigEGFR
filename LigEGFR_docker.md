@@ -2,11 +2,11 @@
 
 This method supports for Windows, Linux and macOS operating systems.
 
-## Hardware Requirements:
+## Hardware requirements:
 
-CPUs: >= 2 cores\
-Memory (RAM): 4GB\
-swap (in docker setting): 8GB
+CPUs: Minumum 2 cores\
+Memory (RAM): Minumum 4GB\
+swap (in docker setting): Minumum 8GB
 
 ## Prerequisites:
 
@@ -55,7 +55,7 @@ A valid organization of a directory:
 
 ### I) Build Docker image from local
 
-This step will build docker image based-on CentOS7, it will be taken time ~6 mins and storage = 5.26GB. 
+This step will build docker image based-on CentOS7, it will be taken time ~6 mins and storage ~5.26GB. 
 
 ```
 cd LigEGFR_docker
