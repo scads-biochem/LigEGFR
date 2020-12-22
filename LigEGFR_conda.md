@@ -136,6 +136,9 @@ For prediction, please run `run_predict.py` and subsequent `qeury.sdf`, this fil
 python3 run_predict.py query.sdf
 ```
 
+When the script is computed to finish, returning a `LigEGFR_output.csv` file for prediction results.
+
+
 ## Examples:
 
 ### Run structure10.sdf file, this file contains 10 small molecules.
