@@ -1,6 +1,6 @@
 # LigEGFR prediciton based-on Docker installation
 
-This method supports for Windows, Linux and macOS operating systems.
+This method supports for Windows, Linux and macOS operating systems (recommended for Windows).
 
 ## Hardware requirements:
 
@@ -72,11 +72,16 @@ For prediction, please add input `qeury.sdf` file, this file consists of multi-c
 docker run -it --cpus="2" --memory="4g" --memory-swap="8g" --name lig1 --rm -i --mount type=bind,source=%cd%,target=/ligegfr ligegfr python3 run_predict.py query.sdf
 ```
 
+
 #### Linux & macOS
 
 ```
 docker run -it --cpus="2" --memory="4g" --memory-swap="8g" --name lig1 --rm -i --mount type=bind,source=$(pwd),target=/ligegfr ligegfr python3 run_predict.py query.sdf
 ```
+
+
+Hardware specification is depends on your computer performance, it can be adjusted as appropriate. When the script is computed to finish, returning a `LigEGFR_output.csv` file for prediction results.
+
 
 ## Examples:
 
