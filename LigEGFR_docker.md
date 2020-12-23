@@ -80,7 +80,7 @@ docker run -it --cpus="2" --memory="4g" --memory-swap="8g" --name lig1 --rm -i -
 ```
 
 
-Hardware specification is depends on your computer performance, it can be adjusted as appropriate. When the script is computed to finish, returning a `LigEGFR_output.csv` file for prediction results.
+Hardware specification is depends on your computer performance, it can be adjusted as appropriate. When the script is computed to finish, returning a `LigEGFR_output.csv` file for prediction results. By the way, swap memory normally changes by 2 times of RAM setting *e.g.* RAM = 4GB, swap = 8GB.
 
 
 ## Examples:
