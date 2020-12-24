@@ -22,7 +22,7 @@ For installing the Docker, please follow the instructions from each link dependi
 
 ### Download LigEGFR_docker.tar.gz and decompress file
 
-The `LigEGFR_docker.tar.gz` file provides at https://zenodo.org/record/4361642 and then extract file by
+The `LigEGFR_docker.tar.gz` file provides at https://zenodo.org/record/4362561 and then extract file by
 ```
 tar -xzvf LigEGFR_docker.tar.gz
 ```
