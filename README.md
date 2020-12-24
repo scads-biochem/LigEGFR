@@ -2,7 +2,7 @@
 
 # LigEGFR
 
-LigEGFR: Spatial graph embedding and molecular descriptors assisted bioactivity prediction of ligand molecules for epidermal growth factor receptor on cell line-based dataset
+LigEGFR: Spatial graph embedding and molecular descriptors assisted bioactivity prediction of ligand molecules for epidermal growth factor receptor on a cell line-based dataset
 
 Puri Virakarin<sup>1,#</sup>, Natthakan Saengnil<sup>1,#</sup>, Bundit Boonyarit<sup>2,#</sup>, Jiramet Kinchagawat<sup>2</sup>, Rattasat Laotaew<sup>2</sup>, Treephop Saeteng<sup>2</sup>, Thanasan Nilsu<sup>1</sup>, Naravut Suvannang<sup>2,\*</sup>, Thanyada Rungrotmongkol<sup>3,4,\*</sup>, and Sarana Nutanong<sup>2,\*</sup>
 
@@ -18,13 +18,15 @@ Puri Virakarin<sup>1,#</sup>, Natthakan Saengnil<sup>1,#</sup>, Bundit Boonyarit
 
 ## About
 
-LigEGFR is a novel deep learning architecture for pIC<sub>50</sub> prediction of small molecules against human epidermal growth factor receptor (EGFR) tyrosine kinase. The architecture is inspired and adapted from a convolution spatial graph embedding layer (C-SGEL) conducted by graph convolutional networks and incorporated especial molecular descriptors. Most interestingly, this model is a notable high performance for the hit compound classification, compared to molecular docking and machine learning approaches. Moreover, our work is the first model that employed a large-scale and non-redundant dataset to enhance the diversity of the small molecules. Besides, we developed a user-friendly online platform that is compatible with all devices, and provide a Python executable script, to predict pIC<sub>50</sub> and classify the hit compounds. This approach opens a new avenue to apply for the hit and lead compounds discovery via targeted lung cancer therapy, offering a powerful strategy that potentially helps researchers overcome the drawbacks of drug discovery processes, and avoids pitfalls of conventional computation methods.
+LigEGFR is a novel deep learning architecture for pIC<sub>50</sub> prediction of small molecules against human epidermal growth factor receptor (EGFR) tyrosine kinase. The architecture is inspired and adapted from a convolution spatial graph embedding layer (C-SGEL) which is conducted by graph convolutional networks and incorporated especial molecular descriptors. This model outperformed baseline machine learning models for predicting pIC<sub>50</sub> and is a notable for higher performance in hit compound classification, compared to molecular docking and machine learning approaches. Moreover, our work is the first model that employed a large-scale and non-redundant dataset to enhance the diversity of the small molecules. 
+
+We developed a user-friendly online platform with compatibility for all devices and Python executable script to predict pIC<sub>50</sub> and classify the hit compounds. This approach opens a new way for applying the hit and lead compounds discovery via targeted lung cancer therapy, offering a powerful strategy that potentially helps researchers overcome the drawbacks of drug discovery processes, and avoids pitfalls of conventional computation methods.
 
 Herein, we provide LigEGFR web service at https://ligegfr.vistec.ist/, and a Python executable file based-on [Anaconda](https://github.com/scads-biochem/LigEGFR/blob/main/LigEGFR_conda.md) (recommended for Linux and macOS) and [Docker](https://github.com/scads-biochem/LigEGFR/blob/main/LigEGFR_docker.md) (recommended for Windows) installation. 
 
 <img src="c-sgen_propagation.svg" align="center">
 
-For C-SGEL, this layer is a part of convolution spatial graph embedding network (C-SGEN) architecture. For more information, please visit https://doi.org/10.1021/acs.jcim.9b00410
+For C-SGEL, this layer is a part of the convolution spatial graph embedding network (C-SGEN) architecture. For more information, please visit https://doi.org/10.1021/acs.jcim.9b00410
 
 
 ## Citation
