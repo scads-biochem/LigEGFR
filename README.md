@@ -33,7 +33,17 @@ For C-SGEL, this layer is a part of the convolution spatial graph embedding netw
 
 Please cite our paper by:
 ```
-
+@article {Virakarin2020.12.24.423424,
+	author = {Virakarin, Puri and Saengnil, Natthakan and Boonyarit, Bundit and Kinchagawat, Jiramet and Laotaew, Rattasat and Saeteng, Treephop and Nilsu, Thanasan and Suvannang, Naravut and Rungrotmongkol, Thanyada and Nutanong, Sarana},
+	title = {LigEGFR: Spatial graph embedding and molecular descriptors assisted bioactivity prediction of ligand molecules for epidermal growth factor receptor on a cell line-based dataset},
+	elocation-id = {2020.12.24.423424},
+	year = {2020},
+	doi = {10.1101/2020.12.24.423424},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2020/12/24/2020.12.24.423424.1},
+	eprint = {https://www.biorxiv.org/content/early/2020/12/24/2020.12.24.423424.1.full.pdf},
+	journal = {bioRxiv}
+}
 ```
 
 ## Contact
