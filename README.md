@@ -22,7 +22,7 @@ LigEGFR is a novel deep learning architecture for predicting pIC<sub>50</sub> of
 
 We developed a user-friendly online platform with compatibility for all devices and Python executable script to predict pIC<sub>50</sub> and classify the hit compounds. This approach opens a new way for applying the hit and lead compounds discovery via targeted lung cancer therapy, offering a powerful strategy that potentially helps researchers overcome major challenges in drug discovery and development processes, and avoids pitfalls of conventional computation methods.
 
-Herein, we provide LigEGFR web service at https://ligegfr.vistec.ist/, and a Python executable file based-on [Anaconda](https://github.com/scads-biochem/LigEGFR/blob/main/LigEGFR_conda.md) (recommended for Linux and macOS) and [Docker](https://github.com/scads-biochem/LigEGFR/blob/main/LigEGFR_docker.md) (recommended for Windows) installation. 
+Herein, we provide LigEGFR web service at https://ligegfr.vistec.ist/, and a Python executable file based-on [Anaconda](https://github.com/scads-biochem/LigEGFR/blob/main/LigEGFR_conda.md) (recommended for Linux and macOS) and [Docker](https://github.com/scads-biochem/LigEGFR/blob/main/LigEGFR_docker.md) (recommended for Windows) installations. 
 
 <img src="c-sgen_propagation.svg" align="center">
 
